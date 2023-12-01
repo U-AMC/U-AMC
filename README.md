@@ -18,7 +18,7 @@
   - LiDAR SLAM Research Intern at SOSLAB (2023.06 ~ )
   - Currently in Co-Research with... LG-CTO Lab, Hyundai ROTEM, SOSLAB
 
-## Capable of
+## Capability
 <!--<p align="center">-->
 <a href="https://www.ros.org/" target="_blank"><img src="https://img.shields.io/badge/ROS-navy?style=flat-square&logo=ROS&logoColor=white"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-blueviolet?style=flat-square&logo=Python&logoColor=white"/></a>
