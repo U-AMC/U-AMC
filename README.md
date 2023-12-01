@@ -25,6 +25,10 @@
 <a href="https://www.cplusplus.org/" target="_blank"><img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/Tensorflow-orange?style=flat-square&logo=Tensorflow&logoColor=white"/></a>
 <a href="https://www.mathworks.com" target="_blank"><img src="https://img.shields.io/badge/MatLab-red?style=flat-square&logo=MatLab&logoColor=white"/></a>
+
+## If you are interested in me, contact me here!!!
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tyoung960302@gmail.com)](mailto:lambertkim317@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tae-young-kim-595692139/)](https://www.linkedin.com/in/jsonkim117/)
  
 <!--
 **U-AMC/U-AMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
