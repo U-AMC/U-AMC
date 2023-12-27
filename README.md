@@ -1,4 +1,4 @@
-### Welcome 👋 to Juwon Kim's Github 
+### Welcome to Juwon Kim's Github 
 
 ## 🔭 Main Research Interests
 - **Simultaneous Localization and Mapping (SLAM)**
