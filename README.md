@@ -11,7 +11,7 @@
 
 ## Education
   - B.S in Robotics & Control from Kumoh National Institute of Technology, Gumi, South Korea (2017.3 ~ 2024.2)
-  - M.S (expected at 2024.3 ~ )
+  - M.S (expected at 2024 ~ )
 
 ## 📫 Careers
   - IoT/Robotics Sensor & Vision Engineer Internship at MakeitAll (2021.06 ~ 2022.02)
