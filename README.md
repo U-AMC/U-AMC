@@ -11,12 +11,12 @@
 
 ## Education
   - B.S in Robotics & Control from Kumoh National Institute of Technology, Gumi, South Korea (2017.3 ~ 2024.2)
-  - M.S (expected at 2024 ~ )
+  - M.S (expected at 2024 ~ ) (Currently in Internship Program @ SPARO, Inha)  
 
 ## 📫 Careers
   - IoT/Robotics Sensor & Vision Engineer Internship at MakeitAll (2021.06 ~ 2022.02)
-  - LiDAR SLAM Research Intern at SOSLAB (2023.06 ~ )
-  - Currently in Co-Research with... LG-CTO Lab, Hyundai ROTEM, SOSLAB
+  - LiDAR SLAM Research Intern at SOSLAB (2023.06 ~ 2024.01)
+  - Co-Research experiences with... LG-CTO, Hyundai ROTEM, SOSLAB, etc.
 
 ## Capability
 <!--<p align="center">-->
