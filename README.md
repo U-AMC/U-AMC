@@ -11,7 +11,7 @@
 
 ## Education
   - B.S in Robotics & Control from KIT, South Korea (2017.3 ~ 2024.2)
-  - M.S (Currently in Internship Program @ SPARO)  
+  - Integrated Ph.D course, currently researching at SPARO Lab(Spatial AI and Robotics Lab)
 
 ## 📫 Careers
   - IoT/Robotics Sensor & Vision Engineer Internship at MakeitAll (2021.06 ~ 2022.02)
