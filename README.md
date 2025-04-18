@@ -3,11 +3,11 @@
 ## 🔭 Main Research Interests
 - **Simultaneous Localization and Mapping (SLAM)**
   - Multi-Robot SLAM & Legged Robot State Estimation
-  - LiDAR-SLAM -> LIO, Robust Scan Matching & Localization
-  - Visual-SLAM -> VIO, Visual Localization
+  - LiDAR, Visual, Radar, Inertial, and GNSS sensor
+  - Joint-Kinematic sensors
 ## Also interested in...
-  - Visual tracking, Multiple view geometry
   - Quadruped Robot RL, Gamma-ray imaging
+  - Field Robots, Space Rovers 
 
 ## Education
   - Integrated Ph.D course, currently researching at SPARO Lab(Spatial AI and Robotics Lab)
